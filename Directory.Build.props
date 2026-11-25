@@ -1,0 +1,7 @@
+<Project>
+  <!-- Les compilations lancées depuis WSL (Linux) ont leur propre dossier intermédiaire :
+       l'éditeur Godot (Windows) et WSL ne se marchent pas dessus. -->
+  <PropertyGroup Condition="'$(OS)' != 'Windows_NT'">
+    <BaseIntermediateOutputPath>obj_wsl/</BaseIntermediateOutputPath>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,4 @@
+Pacifico (Fonts/pacifico-*.woff2)
+Copyright 2018 The Pacifico Project Authors (https://github.com/googlefonts/Pacifico)
+Licensed under the SIL Open Font License, Version 1.1 (same text as OFL-LICENSE.txt).
+Source: Google Fonts via Fontsource.

@@ -1,0 +1,7 @@
+.godot/
+.mono/
+obj/
+obj_wsl/
+bin/
+*.user
+export/
